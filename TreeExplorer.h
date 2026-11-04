@@ -25,7 +25,7 @@ void exploreTree(Node* root);
 // Tree as dash-indented text (2 dashes per level, edge label in [ ]).
 std::string buildTreeVisualization(Node* root);
 
-// Writes the visualization andproperties text to the file.
+// Writes the visualization and properties text to the file.
 // Returns false if the file can't be opened.
 bool writeAboutTreeFile(Node* root,
                         const std::string& propertiesText,

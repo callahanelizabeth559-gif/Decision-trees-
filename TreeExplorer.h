@@ -4,7 +4,7 @@
 #include <string>
 #include "Node.h"
 
-//console exploration + about_tree.txt output.
+// console exploration + about_tree.txt output.
 // Only needs the Node struct and the root pointer (use tree.getRoot()).
 
 // Finds the node with this preorder position, or nullptr if none.
